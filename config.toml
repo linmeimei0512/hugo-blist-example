@@ -5,6 +5,7 @@ theme = "blist"
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
+staticDir = ['static']
 [languages]
   [languages.en]
     contentDir = "content/en" #English
